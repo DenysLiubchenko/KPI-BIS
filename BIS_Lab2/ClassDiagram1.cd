@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BIS.Ciphers.CaesarCipher">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\CaesarCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Trithemius.Key">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\TrithemiusCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Trithemius.TrithemiusCipher">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAgIAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\TrithemiusCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Interface.Layout">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAEAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\Layout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Layouts.CaesarLayout">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\CaesarLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Layouts.TrithemiusLayout">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\TrithemiusLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.FileWorker">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAACAAAAMAAJAAAAAAAQAA=</HashCode>
+      <FileName>FileWorker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.MainWindow">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAICAAACAAIAAAAAACAAABAIAEAABQyAAAAABAQEIAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Ciphers.XORCipher">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\XORCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Layouts.XORLayout">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\XORLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Ciphers.BookCipher">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Ciphers\BookCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Layouts.BookLayout">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\BookLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Layouts.DESLayout">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\DESLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Ciphers.DESCipher">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAIABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\DESCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BIS.Knapsack.PrivateKey" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIMMAAA=</HashCode>
+      <FileName>Ciphers\KnapsackCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Knapsack.PublicKey" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\KnapsackCipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.Knapsack.KnapsackCipher" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\KnapsackCipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BIS.Layouts.KnapsackLayout">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgBAAAAQACAAAAQAAAAAAAAAAAEAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\KnapsackLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.RSA.PrivateKey" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\RSACipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.RSA.PublicKey" Collapsed="true">
+    <Position X="9.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\RSACipher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BIS.RSA.RSACipher" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciphers\RSACipher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BIS.Layouts.RSALayout">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQACAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layouts\RSALayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BIS.Interface.ICipher&lt;K&gt;">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICipher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BIS.Interface.IFileWorker">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAACAAAAEAAJAAAAAAAQAA=</HashCode>
+      <FileName>Interface\IFileWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BIS.Interface.IAsymmetricCipher&lt;EKey, DKey&gt;">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IAsymmetricCipher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
